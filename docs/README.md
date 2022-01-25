@@ -1,5 +1,5 @@
 <center>
-<img src="./Logo.png" style="height: 450px; width:450px; padding-left: 5px; content: center"></img>
+<img src="./MainLogo.png" style="height: 450px; width:450px; padding-left: 5px; content: center"></img>
 </center>
 
 ### API Accionet
